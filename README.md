@@ -19,7 +19,6 @@ Skills: REACT / JS / HTML / CSS/PHP/LARAVEL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zamanmonirbu&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/zamanmonirbu)  
 
 
 <h3 align="left">Languages and Tools:</h3>
