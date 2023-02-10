@@ -1,5 +1,5 @@
-### Hi there 👋, I am Md. Moniruzzaman
-#### I am Student at University of Barisal.
+### Hey! I am Md. Moniruzzaman
+#### I am Computer Science & Engineering UG student, with expectation to graduate in 2024.
 ![I am Student at University of Barisal.](https://user-images.githubusercontent.com/56535991/121919004-354b3400-cd54-11eb-968b-5c5c3af89598.gif)
 
 I am a web developer with 2 years of professional experience. I primarily work on full-stack, but I am capable of adapting to any technology as needed. I have completed over 20 projects and a lot of open-source contributions in my career.
