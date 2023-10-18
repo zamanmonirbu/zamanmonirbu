@@ -1,5 +1,6 @@
 ### Hey!
-![I am a Student at University of Barisal.](https://ibb.co/Jj0XrDv)
+![I am a Student at University of Barisal.](![ezgif com-resize](https://github.com/zamanmonirbu/zamanmonirbu/assets/53488876/0ecffa80-6e71-4269-b8d9-1cb108eaa12c)
+)
 
 #### I am a Computer Science & Engineering UG student, with the expectation to graduate in 2024.
 
