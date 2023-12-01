@@ -12,22 +12,12 @@ I am a web developer with 2 years of professional experience. I primarily work o
 - 👬 I’m looking to collaborate on **GitHub and LinkedIn**
 - ✉️ How to reach me: **Mail**
 
-I am open to discussing new opportunities, please reach out at monir.cse6.bu@gmail.com
+I am open to discussing new opportunities, please reach out at [monir.cse6.bu@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTLGfHGcXKqctjQpBMPMVdzBvlDQMnjWXPCzCGCRKDJdRzlgPnDWVNhzGGcnwTdjstTnQq).
 
-I am open to discussing new opportunities. Feel free to reach out:
-
-I am open to discussing new opportunities. Feel free to reach out:
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/zamanmonirbu) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zamanmonirbu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zamanmonirbu/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jubayerjoy98@gmail.com) [![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13254125/zamanmonirbu) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zamanmonirbu)
 
 Followers: [![GitHub followers](https://img.shields.io/github/followers/zamanmonirbu?style=social)](https://github.com/zamanmonirbu)
-
-
-Followers: [![GitHub followers](https://img.shields.io/github/followers/zamanmonirbu?style=social)](https://github.com/zamanmonirbu)
-
-
-Followers: [![GitHub followers](https://img.shields.io/github/followers/zamanmonirbu?style=social)](https://github.com/zamanmonirbu)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamanmonirbu)](https://github.com/anuraghazra/github-readme-stats)
 
