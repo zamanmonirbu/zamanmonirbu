@@ -12,11 +12,17 @@ I am a web developer with 2 years of professional experience. I primarily work o
 - 👬 I’m looking to collaborate on **GitHub and LinkedIn**
 - ✉️ How to reach me: **Mail**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='filter: invert(52%) sepia(91%) saturate(3200%) hue-rotate(191deg) brightness(94%) contrast(84%);'>](https://github.com/zamanmonirbu)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' style='filter: invert(46%) sepia(61%) saturate(460%) hue-rotate(193deg) brightness(89%) contrast(87%);'>](https://www.facebook.com/zamanmonirbu)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' style='filter: invert(68%) sepia(33%) saturate(636%) hue-rotate(197deg) brightness(95%) contrast(84%);'>](https://twitter.com/zamanmonirbu)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40' style='filter: invert(48%) sepia(36%) saturate(523%) hue-rotate(92deg) brightness(90%) contrast(82%);'>](https://www.youtube.com/channel/@solutionzaman8024)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' style='filter: invert(80%) sepia(2%) saturate(305%) hue-rotate(258deg) brightness(88%) contrast(84%);'>](https://zamanmonirbu.github.io/personalPortfolio/)
+I am open to discussing new opportunities, please reach out at monir.cse6.bu@gmail.com
+
+[Facebook](https://www.facebook.com/zamanmonirbu)  
+[Twitter](https://twitter.com/zamanmonirbu)  
+[LinkedIn](https://www.linkedin.com/in/zamanmonirbu/)  
+[Gmail](mailto:jubayerjoy98@gmail.com)  
+[StackOverflow](https://stackoverflow.com/users/13254125/zamanmonirbu)  
+[GitHub](https://github.com/zamanmonirbu)
+
+Followers: [![GitHub followers](https://img.shields.io/github/followers/zamanmonirbu?style=social)](https://github.com/zamanmonirbu)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamanmonirbu)](https://github.com/anuraghazra/github-readme-stats)
 
