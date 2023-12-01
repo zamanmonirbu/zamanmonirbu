@@ -14,8 +14,9 @@ I am open to discussing new opportunities, please reach out at [monir.cse6.bu@gm
 
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/zamanmonirbu) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zamanmonirbu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-moniruzzaman-ba98b8180/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzBlGHbhMvDhbCldjwlVFfPmZRkpNkvWPBjWLVrfgmFsVMQXZLgWdpVkHkWlLSbtdRXrSfh) [![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11540934/moniruzzaman) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zamanmonirbu)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamanmonirbu)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zamanmonirbu&show_icons=true&count_private=true)
 
 
 ### Programming Languages:
