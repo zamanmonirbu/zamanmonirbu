@@ -18,9 +18,10 @@ I am open to discussing new opportunities, please reach out at [monir.cse6.bu@gm
 #### Language, DB, Libraries and Frameworks
 
 
-<p align="center">
+<div align="center">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamanmonirbu)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+</div>
+
 
 <p align="center">
  ### Programming Languages:
