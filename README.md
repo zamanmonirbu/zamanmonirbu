@@ -5,14 +5,18 @@
 
 I am a web developer with 2 years of professional experience. I primarily work on full-stack, but I am capable of adapting to any technology as needed. I have completed over 20 projects and a lot of open-source contributions in my career.
 
-**Skills:** HTML / CSS / JS / REACT / Node / Express / MongoDB / Mongoose / PHP /
+**Skills:** MERN / PHP /
 
-- 🔭 I’m currently working on Classroom instrument management system software.
-- 🌱 I’m currently learning NextJs
-- 👯 I’m looking to collaborate on GitHub and LinkedIn
-- 📫 How to reach me: Mail
+- 👨🏻‍💻 I’m making **Happy** named social media.
+- 🎯 I’m currently learning **NextJs**
+- 👬 I’m looking to collaborate on **GitHub and LinkedIn**
+- ✉️ How to reach me: **Mail**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zamanmonirbu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/zamanmonirbu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/zamanmonirbu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@solutionzaman8024)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://zamanmonirbu.github.io/personalPortfolio/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='filter: invert(52%) sepia(91%) saturate(3200%) hue-rotate(191deg) brightness(94%) contrast(84%);'>](https://github.com/zamanmonirbu)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40' style='filter: invert(46%) sepia(61%) saturate(460%) hue-rotate(193deg) brightness(89%) contrast(87%);'>](https://www.facebook.com/zamanmonirbu)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' style='filter: invert(68%) sepia(33%) saturate(636%) hue-rotate(197deg) brightness(95%) contrast(84%);'>](https://twitter.com/zamanmonirbu)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40' style='filter: invert(48%) sepia(36%) saturate(523%) hue-rotate(92deg) brightness(90%) contrast(82%);'>](https://www.youtube.com/channel/@solutionzaman8024)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' style='filter: invert(80%) sepia(2%) saturate(305%) hue-rotate(258deg) brightness(88%) contrast(84%);'>](https://zamanmonirbu.github.io/personalPortfolio/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamanmonirbu)](https://github.com/anuraghazra/github-readme-stats)
 
