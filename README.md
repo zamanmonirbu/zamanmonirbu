@@ -1,5 +1,5 @@
 ### Hey!
-![I am a Student at University of Barisal.](https://github.com/zamanmonirbu/zamanmonirbu/assets/53488876/363bea18-e3b0-4ad6-b064-5e4150e0ab4f)
+![I am a Student at University of Barisal.](https://github.com/zamanmonirbu/zamanmonirbu/assets/53488876/91e3c415-b4cc-40f1-aa54-0836dd5197ab)
 #### I am a Computer Science & Engineering UG student, with the expectation to graduate in 2024.
 I am a web developer with 2 years of professional experience. I primarily work on full-stack, but I am capable of adapting to any technology as needed. I have completed over 20 projects and a lot of open-source contributions in my career.
 
