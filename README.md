@@ -1,15 +1,15 @@
 ### Hey!
-![I am a Student at University of Barisal.](![ezgif com-resize](https://github.com/zamanmonirbu/zamanmonirbu/assets/53488876/d06f2fbe-bd06-4e5f-9684-3537aa0ebbe5)
+![I am a Student at University of Barisal.](![ezgif com-resize](https://github.com/zamanmonirbu/zamanmonirbu/assets/53488876/363bea18-e3b0-4ad6-b064-5e4150e0ab4f)
 )
 
 #### I am a Computer Science & Engineering UG student, with the expectation to graduate in 2024.
 
 I am a web developer with 2 years of professional experience. I primarily work on full-stack, but I am capable of adapting to any technology as needed. I have completed over 20 projects and a lot of open-source contributions in my career.
 
-Skills: REACT / JS / HTML / CSS/PHP/LARAVEL
+Skills: HTML / CSS / JS / REACT/ Node / Express / MongoDB / Mongoose / PHP /
 
 - 🔭 I’m currently working on Classroom instrument management system software. 
-- 🌱 I’m currently learning React and Javascript 
+- 🌱 I’m currently learning NextJs 
 - 👯 I’m looking to collaborate on GitHub and LinkedIn 
 - 📫 How to reach me: Mail 
 
