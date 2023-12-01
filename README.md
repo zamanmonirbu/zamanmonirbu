@@ -14,12 +14,17 @@ I am a web developer with 2 years of professional experience. I primarily work o
 
 I am open to discussing new opportunities, please reach out at monir.cse6.bu@gmail.com
 
-[Facebook](https://www.facebook.com/zamanmonirbu)  
-[Twitter](https://twitter.com/zamanmonirbu)  
-[LinkedIn](https://www.linkedin.com/in/zamanmonirbu/)  
-[Gmail](mailto:jubayerjoy98@gmail.com)  
-[StackOverflow](https://stackoverflow.com/users/13254125/zamanmonirbu)  
-[GitHub](https://github.com/zamanmonirbu)
+I am open to discussing new opportunities. Feel free to reach out:
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zamanmonirbu)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zamanmonirbu)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zamanmonirbu/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jubayerjoy98@gmail.com)  
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13254125/zamanmonirbu)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zamanmonirbu)
+
+Followers: [![GitHub followers](https://img.shields.io/github/followers/zamanmonirbu?style=social)](https://github.com/zamanmonirbu)
+
 
 Followers: [![GitHub followers](https://img.shields.io/github/followers/zamanmonirbu?style=social)](https://github.com/zamanmonirbu)
 
