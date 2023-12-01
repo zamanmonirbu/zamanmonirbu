@@ -9,19 +9,13 @@ I am a web developer with 2 years of professional experience. I primarily work o
 - 👬 I’m looking to collaborate on **GitHub and LinkedIn**
 - ✉️ How to reach me: **Mail**
 
-  
 I am open to discussing new opportunities, please reach out at [monir.cse6.bu@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTLGfHGcXKqctjQpBMPMVdzBvlDQMnjWXPCzCGCRKDJdRzlgPnDWVNhzGGcnwTdjstTnQq)
-
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/zamanmonirbu) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zamanmonirbu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-moniruzzaman-ba98b8180/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzBlGHbhMvDhbCldjwlVFfPmZRkpNkvWPBjWLVrfgmFsVMQXZLgWdpVkHkWlLSbtdRXrSfh) [![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11540934/moniruzzaman) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zamanmonirbu)
 
-#### Language, DB, Libraries and Frameworks
-
  <h2> Language, DB, Libraries and Frameworks</h2>
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamanmonirbu)](https://github.com/anuraghazra/github-readme-stats)
-
 
  ### Programming Languages:
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
