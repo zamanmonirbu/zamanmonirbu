@@ -1,13 +1,26 @@
-### Hey!
-![I am a Student at University of Barisal.](https://github.com/zamanmonirbu/zamanmonirbu/assets/53488876/91e3c415-b4cc-40f1-aa54-0836dd5197ab)
-#### I am a Computer Science & Engineering UG student, with the expectation to graduate in 2024.
-I am a web developer with 2 years of professional experience. I primarily work on full-stack, but I am capable of adapting to any technology as needed. I have completed over 20 projects and a lot of open-source contributions in my career.
+### Hey there! 👋  
+![I am a Graduate in Computer Science & Engineering from the University of Barisal.](https://github.com/zamanmonirbu/zamanmonirbu/assets/53488876/91e3c415-b4cc-40f1-aa54-0836dd5197ab)  
 
-**Skills:** MERN / PHP /
-- 👨🏻‍💻 I’m making **Happy** named social media.
-- 🎯 I’m currently learning **NextJs**
-- 👬 I’m looking to collaborate on **GitHub and LinkedIn**
-- ✉️ How to reach me: **Mail**
+#### About Me  
+I am a **Computer Science & Engineering graduate** from the University of Barisal (2024).  
+As a **web developer** with 2+ years of working experience, I specialize in **full-stack development** but adapt quickly to any technology as needed. Over my career, I've completed **20+ projects** and eager to contribute to open source projects.
+
+---
+
+**Skills:**  
+- **Frontend:** React.js, Next.js  
+- **Backend:** Node.js, Express.js, Nest.js  
+- **Databases:** MongoDB, MySQL, PostgreSQL  
+- **DevOps:** Docker  
+- **Other Skills:** Microservices Architecture  
+
+---
+
+
+**Learning Goals:**  
+🎯 Expanding expertise in **microservices** and improving scalability in web applications.  
+
+---
 
 I am open to discussing new opportunities, please reach out at [monir.cse6.bu@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTLGfHGcXKqctjQpBMPMVdzBvlDQMnjWXPCzCGCRKDJdRzlgPnDWVNhzGGcnwTdjstTnQq)
 
