@@ -2,7 +2,7 @@
 ![I am a Graduate in Computer Science & Engineering from the University of Barisal.](https://github.com/zamanmonirbu/zamanmonirbu/assets/53488876/91e3c415-b4cc-40f1-aa54-0836dd5197ab)  
 
 #### About Me  
-I am a **Computer Science & Engineering graduate** from the University of Barisal (2024).  
+I am a **Computer Science & Engineering graduate** from the University of Barisal (2024). Currently working as Full Stack MERN Developer at bdCalling It Ltd Dhaka, Bangladesh.  
 As a **web developer** with 2+ years of working experience, I specialize in **full-stack development** but adapt quickly to any technology as needed. Over my career, I've completed **20+ projects** and eager to contribute to open source projects.
 
 ---
