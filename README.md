@@ -1,7 +1,7 @@
 ### Hey there! 👋  
 I am a Graduate in Computer Science & Engineering from the University of Barisal.
 
-![Cover Photo](<img width="1280" height="640" alt="Image" src="https://github.com/user-attachments/assets/acb0fbcd-2ac9-4552-8dca-d5f3a3f67faf" />)
+![Cover Photo](https://github.com/user-attachments/assets/acb0fbcd-2ac9-4552-8dca-d5f3a3f67faf)
 
 
 #### About Me  
