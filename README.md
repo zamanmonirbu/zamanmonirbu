@@ -12,8 +12,8 @@ As a **web developer** with 4+ years of working experience, I specialize in **fu
 ---
 
 **Skills:**  
-- **Frontend:** React.js, Next.js  
-- **Backend:** Node.js, Express.js, Nest.js  
+- **Frontend:** React.js, Next.js, Angular.js
+- **Backend:** Node.js, Express.js, Nest.js, .Net  
 - **Databases:** MongoDB, MySQL, PostgreSQL  
 - **DevOps:** Docker  
 - **Other Skills:** Microservices Architecture  
