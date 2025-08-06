@@ -7,7 +7,7 @@ I am a Graduate in Computer Science & Engineering from the University of Barisal
 #### About Me  
 I am a **Computer Science & Engineering graduate** from the University of Barisal (2024). Currently working as Full Stack MERN Developer at bdCalling It Ltd Dhaka, Bangladesh
 
-As a **web developer** with 2+ years of working experience, I specialize in **full-stack development** but adapt quickly to any technology as needed. Over my career, I've completed **20+ projects** and eager to contribute to open source projects.
+As a **web developer** with 4+ years of working experience, I specialize in **full-stack development** but adapt quickly to any technology as needed. Over my career, I've completed **40+ projects** and eager to contribute to open source projects.
 
 ---
 
