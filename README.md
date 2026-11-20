@@ -1,51 +1,37 @@
-# Hi, I'm Moniruzzaman
+# Hi, I'm Moniruzzaman 
 
-### Software Engineer | Full Stack Developer
+**Software Engineer @ AdsFixter LLC** · Full-Stack Developer · Bangladesh
 
-I'm a Software Engineer and Computer Science & Engineering graduate from the University of Barisal (2024), based in Bangladesh.
+I build multi-tenant SaaS products for the Bangladeshi market, end to end: Node.js/NestJS backends, Next.js frontends, and the Linux servers they run on in production. I care about clean architecture, reliable deployments, and shipping software that real businesses depend on.
 
-I specialize in building modern web applications and SaaS products, with a strong focus on backend development, scalable architecture, and clean code.
+### What I've Built
 
-I have 4+ years of experience in web development and have worked on 40+ projects across different domains.
-
-### About Me
-
-- Working as a Software Engineer.
-- Building scalable web applications and SaaS products.
-- Experienced in full-stack and backend development.
-- Exploring DevOps, cloud infrastructure, and system architecture.
-- Continuously learning and improving my engineering skills.
+- **Multi-tenant e-commerce SaaS**: a platform where merchants launch and manage their own online stores
+- **Omnichannel CRM**: brings WhatsApp, Messenger and Instagram conversations into one inbox (Meta Graph API)
+- **Task management platform**: configurable workflows for engineering and non-engineering teams
+- **Production infrastructure**: Nginx, PM2, Cloudflare, Dockerized deployments on Linux VPS
 
 ### Tech Stack
 
-**Frontend:** React.js, Next.js, Angular, TypeScript, JavaScript, Tailwind CSS, Sass
+| Area | Tools |
+|---|---|
+| **Languages** | TypeScript, JavaScript |
+| **Frontend** | Next.js, React, Angular, Tailwind CSS |
+| **Backend** | Node.js, NestJS, Express.js, .NET |
+| **Databases** | PostgreSQL, MongoDB, MySQL, Redis |
+| **DevOps** | Docker, AWS, Linux, Nginx, PM2, Cloudflare |
 
-**Backend:** Node.js, Express.js, NestJS, .NET
 
-**Database:** MongoDB, PostgreSQL, MySQL, Redis
 
-**DevOps & Infrastructure:** Docker, AWS, Linux, Nginx, PM2, Cloudflare
 
-**Tools:** Git, GitHub, Postman
+### Research
 
-**Other:** REST APIs, Microservices, SaaS Architecture
+M.Sc. thesis on **Bangla legal NLP**: question answering and summarization over legal documents.
 
-### Currently Working
+### Currently Focused On
 
-- System Design & Distributed Systems
-- Advanced Backend Engineering
-- Microservices Architecture
-- DevOps & CI/CD
-- Cloud Infrastructure
+System design · Distributed systems · Microservices · CI/CD pipelines
 
-### Connect With Me
+### Connect
 
-- **GitHub:** [github.com/zamanmonirbu](https://github.com/zamanmonirbu)
-- **LinkedIn:** [linkedin.com/in/mdmoniruzzamanbu](https://www.linkedin.com/in/mdmoniruzzamanbu/)
-- **Email:** [monir.cse6.bu@gmail.com](mailto:monir.cse6.bu@gmail.com)
-- **Facebook:** [facebook.com/zamanmonirbu](https://www.facebook.com/zamanmonirbu)
-- **Stack Overflow:** [My Profile](https://stackoverflow.com/users/11540934/moniruzzaman)
-
----
-
-*Always learning, building, and solving problems through code.*
+[LinkedIn](https://www.linkedin.com/in/mdmoniruzzamanbu/) · [Email](mailto:monir.cse6.bu@gmail.com) · [Stack Overflow](https://stackoverflow.com/users/11540934/moniruzzaman)
