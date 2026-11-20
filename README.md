@@ -1,60 +1,51 @@
-### Hey there! 👋  
-I am a Graduate in Computer Science & Engineering from the University of Barisal.
+# Hi, I'm Moniruzzaman
 
-![Cover Photo](https://github.com/user-attachments/assets/e5729f03-1555-46fb-a3a4-673930b07dec)
+### Software Engineer | Full Stack Developer
 
+I'm a Software Engineer and Computer Science & Engineering graduate from the University of Barisal (2024), based in Bangladesh.
 
-#### About Me  
-I am a **Computer Science & Engineering graduate** from the University of Barisal (2024). Currently working as Full Stack MERN Developer at Scale up ad agency Dhaka, Bangladesh
+I specialize in building modern web applications and SaaS products, with a strong focus on backend development, scalable architecture, and clean code.
 
-As a **web developer** with 4+ years of working experience, I specialize in **full-stack development** but adapt quickly to any technology as needed. Over my career, I've completed **40+ projects** and eager to contribute to open source projects.
+I have 4+ years of experience in web development and have worked on 40+ projects across different domains.
+
+### About Me
+
+- Working as a Software Engineer.
+- Building scalable web applications and SaaS products.
+- Experienced in full-stack and backend development.
+- Exploring DevOps, cloud infrastructure, and system architecture.
+- Continuously learning and improving my engineering skills.
+
+### Tech Stack
+
+**Frontend:** React.js, Next.js, Angular, TypeScript, JavaScript, Tailwind CSS, Sass
+
+**Backend:** Node.js, Express.js, NestJS, .NET
+
+**Database:** MongoDB, PostgreSQL, MySQL, Redis
+
+**DevOps & Infrastructure:** Docker, AWS, Linux, Nginx, PM2, Cloudflare
+
+**Tools:** Git, GitHub, Postman
+
+**Other:** REST APIs, Microservices, SaaS Architecture
+
+### Currently Working
+
+- System Design & Distributed Systems
+- Advanced Backend Engineering
+- Microservices Architecture
+- DevOps & CI/CD
+- Cloud Infrastructure
+
+### Connect With Me
+
+- **GitHub:** [github.com/zamanmonirbu](https://github.com/zamanmonirbu)
+- **LinkedIn:** [linkedin.com/in/mdmoniruzzamanbu](https://www.linkedin.com/in/mdmoniruzzamanbu/)
+- **Email:** [monir.cse6.bu@gmail.com](mailto:monir.cse6.bu@gmail.com)
+- **Facebook:** [facebook.com/zamanmonirbu](https://www.facebook.com/zamanmonirbu)
+- **Stack Overflow:** [My Profile](https://stackoverflow.com/users/11540934/moniruzzaman)
 
 ---
 
-**Skills:**  
-- **Frontend:** React.js, Next.js, Angular.js
-- **Backend:** Node.js, Express.js, Nest.js, .Net  
-- **Databases:** MongoDB, MySQL, PostgreSQL  
-- **DevOps:** Docker  
-- **Other Skills:** Microservices Architecture  
-
----
-
-
-**Learning Goals:**  
-🎯 Expanding expertise in **microservices** and improving scalability in web applications.  
-
----
-
-I am open to discussing new opportunities, please reach out at [monir.cse6.bu@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTLGfHGcXKqctjQpBMPMVdzBvlDQMnjWXPCzCGCRKDJdRzlgPnDWVNhzGGcnwTdjstTnQq)
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/zamanmonirbu) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/zamanmonirbu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdmoniruzzamanbu/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:monir.cse6.bu@gmail.com) [![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11540934/moniruzzaman) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zamanmonirbu)
-
- <h2> Language, DB, Libraries and Frameworks</h2>
-
- ### Programming Languages:
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-
-
-### Web Engineering Languages::
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/></a> 
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a> 
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/></a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-</a> 
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
-</a> 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-</a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/></a>
+*Always learning, building, and solving problems through code.*
