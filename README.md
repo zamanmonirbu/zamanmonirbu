@@ -9,7 +9,7 @@ I build multi-tenant SaaS products for the Bangladeshi market, end to end: Node.
 - **Multi-tenant e-commerce SaaS**: a platform where merchants launch and manage their own online stores
 - **Omnichannel CRM**: brings WhatsApp, Messenger and Instagram conversations into one inbox (Meta Graph API)
 - **Task management platform**: configurable workflows for engineering and non-engineering teams
-- **Production infrastructure**: Nginx, PM2, Cloudflare, Dockerized deployments on Linux VPS
+- **Production infrastructure**: Nginx, PM2, Cloudflare,AWS, Dockerized deployments on Linux VPS
 
 ### Tech Stack
 
